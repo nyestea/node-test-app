@@ -6,5 +6,6 @@ export const handler = async (event) => {
     statusCode: 200,
     body: JSON.stringify('Hello' + nameParam + ' from Lambda!')
   };
+  // just a comment
   return response;
 };
