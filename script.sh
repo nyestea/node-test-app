@@ -1,2 +1,2 @@
 echo "Successful Deployment!" 
-npm start
+npm start &
